@@ -4,17 +4,17 @@
         "country": "IND",
         "city": "std:080",
         "action": "issue_status",
-        "bap_id": "biz.test.bitsila.com",
-        "bap_uri": "https://biz.test.bitsila.com/ecc/ondc/logistics-bap",
-        "bpp_id": "preprod.ondc.adloggs.com",
-        "bpp_uri": "https://preprod.ondc.adloggs.com/ondcapi",
-        "transaction_id": "LOG-3147-1001-1016-CyXP",
-        "message_id": "d0d3844f-9d00-4ea5-8e02-f9aaf8a0e425",
-        "timestamp": "2023-12-29T12:05:04.152Z",
+        "core_version": "1.0.0",
+        "transaction_id": "0a14b693-33e2-4b14-b871-b6ee0ed701fd",
+        "bap_id": "preprod-ondc.addble.com",
+        "bap_uri": "https://preprod-ondc.addble.com/",
+        "message_id": "ece6fa48-80b1-4d8a-a711-e1b138a1b74d",
+        "timestamp": "2024-01-22T10:06:01.200Z",
         "ttl": "PT30S",
-        "core_version": "1.0.0"
+        "bpp_id": "preprod.ondc.adloggs.com",
+        "bpp_uri": "https://preprod.ondc.adloggs.com/ondcapi"
     },
     "message": {
-        "issue_id": "c5dc693a-903b-48a9-a2d1-2e9f08cd7337"
+        "issue_id": "70afd1a4-8575-4b3f-8221-8870e6a0b0ce"
     }
 }

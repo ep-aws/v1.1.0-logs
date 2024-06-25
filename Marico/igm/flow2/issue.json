@@ -9,39 +9,39 @@
         "bap_uri": "https://buyer-app-preprod.ondc.org/protocol/v1",
         "bpp_uri": "https://ondcpreprod.marico.in/retail/",
         "country": "IND",
-        "timestamp": "2023-07-19T08:29:37.123Z",
-        "message_id": "0672062b-a9d7-4bfd-8908-c275248268d7",
+        "timestamp": "2024-01-31T05:23:33.695Z",
+        "message_id": "412293e4-2fa4-423b-85e5-5b284f8b1327",
         "core_version": "1.0.0",
-        "transaction_id": "1ed19f9c-1952-4d6c-9e2f-268dad36da09"
+        "transaction_id": "2d2db944-48c2-4762-931b-bd3e5e317493"
     },
     "message": {
         "issue": {
-            "id": "1b2f0148-8618-4c84-9b83-6c541a94bacf",
+            "id": "f7355ff0-875f-4f46-96ca-ace27ab946e4",
             "source": {
                 "type": "CONSUMER",
                 "network_participant_id": "buyer-app-preprod.ondc.org"
             },
             "status": "OPEN",
-            "category": "FULFILLMENT",
-            "created_at": "2023-07-19T08:29:36.842Z",
+            "category": "ITEM",
+            "created_at": "2024-01-31T05:23:33.586Z",
             "issue_type": "ISSUE",
-            "updated_at": "2023-07-19T08:29:36.842Z",
+            "updated_at": "2024-01-31T05:23:33.586Z",
             "description": {
                 "images": [],
-                "long_desc": "Order Delivered delay",
-                "short_desc": "Order Delivered delay",
+                "long_desc": "1 item qty is missing",
+                "short_desc": "1 item qty is missing",
                 "additional_desc": {
                     "url": "https://buyerapp.com/additonal-details/desc.txt",
                     "content_type": "text/plain"
                 }
             },
-            "sub_category": "FLM02",
+            "sub_category": "ITM01",
             "issue_actions": {
                 "respondent_actions": [],
                 "complainant_actions": [
                     {
                         "short_desc": "Complaint created",
-                        "updated_at": "2023-07-19T08:29:37.123Z",
+                        "updated_at": "2024-01-31T05:23:33.695Z",
                         "updated_by": {
                             "org": {
                                 "name": "buyer-app-preprod.ondc.org::nic2004:52110"
@@ -59,10 +59,10 @@
                 ]
             },
             "order_details": {
-                "id": "2023-07-19-247915",
+                "id": "2024-01-31-227971",
                 "items": [
                     {
-                        "id": "8901088129824",
+                        "id": "MANS10",
                         "quantity": 2
                     }
                 ],

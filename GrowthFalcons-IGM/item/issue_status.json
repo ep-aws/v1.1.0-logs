@@ -1,0 +1,19 @@
+{
+    "context": {
+        "city": "std:080",
+        "domain": "nic2004:52110",
+        "bpp_uri": "https://falconsai.com/v1/ondc/ecomm/fnb",
+        "core_version": "1.0.0",
+        "bap_id": "buyer-app-preprod.ondc.org",
+        "bpp_id": "falconsai.com",
+        "timestamp": "2024-03-01T06:21:59.871Z",
+        "action": "on_issue_status",
+        "bap_uri": "https://buyer-app-preprod.ondc.org/protocol/v1",
+        "country": "IND",
+        "message_id": "0a51e386-5b78-4fa3-a1e8-374c602556fb",
+        "transaction_id": "d5112bc1-665e-4f08-a9a6-a6e5ec3696ef"
+    },
+    "message": {
+        "issue_id": "04322f51-47c5-4e0b-93dc-f37c9b1d5a9c"
+    }
+}

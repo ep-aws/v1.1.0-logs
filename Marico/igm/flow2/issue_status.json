@@ -9,12 +9,12 @@
         "bap_uri": "https://buyer-app-preprod.ondc.org/protocol/v1",
         "bpp_uri": "https://ondcpreprod.marico.in/retail/",
         "country": "IND",
-        "timestamp": "2023-07-19T08:30:31.995Z",
-        "message_id": "cfab92ab-552c-4331-8730-fca6b521b22d",
+        "timestamp": "2024-01-31T05:27:23.207Z",
+        "message_id": "58a5d4b8-ddf1-47fc-96c3-8afd4a46d5b6",
         "core_version": "1.0.0",
-        "transaction_id": "1ed19f9c-1952-4d6c-9e2f-268dad36da09"
+        "transaction_id": "2d2db944-48c2-4762-931b-bd3e5e317493"
     },
     "message": {
-        "issue_id": "1b2f0148-8618-4c84-9b83-6c541a94bacf"
+        "issue_id": "f7355ff0-875f-4f46-96ca-ace27ab946e4"
     }
 }
